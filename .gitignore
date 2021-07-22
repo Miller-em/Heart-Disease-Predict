@@ -1,0 +1,7 @@
+*.spec
+
+# folder
+__pycache__/*
+build/*
+dist/*
+images/*
